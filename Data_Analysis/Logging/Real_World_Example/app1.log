@@ -1,0 +1,6 @@
+2025-07-09 15:19:01 - ArithmeticAPP - DEBUG - adding 10+14 = 24
+2025-07-09 15:19:01 - ArithmeticAPP - DEBUG - doing 120-12 = 108
+2025-07-09 15:19:28 - ArithmeticAPP - DEBUG - adding 10+14 = 24
+2025-07-09 15:19:28 - ArithmeticAPP - DEBUG - doing 120-12 = 108
+2025-07-09 15:19:28 - ArithmeticAPP - DEBUG - doing 12*23 = 276
+2025-07-09 15:19:28 - ArithmeticAPP - ERROR - zero division error

@@ -1,0 +1,13 @@
+scikit-learn
+numpy
+pandas
+lxml
+html5
+html5lib
+beautifulsoup4
+openpyxl
+matplotlib
+seaborn
+bs4
+requests
+flask
