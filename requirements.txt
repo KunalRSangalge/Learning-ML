@@ -11,3 +11,7 @@ seaborn
 bs4
 requests
 flask
+streamlit
+memory-profiler
+imblearn
+statsmodels
