@@ -16,3 +16,4 @@ memory-profiler
 imblearn
 statsmodels
 Flask
+plotly
